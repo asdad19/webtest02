@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+
+
+
+
+#ext_menu-0 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-0 .navbar-brand {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#header1-1 H1 {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#form2-4 .mbr-section-title {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 36px;
+}
+#form2-4 .btn {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#social-buttons2-5 .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+}
